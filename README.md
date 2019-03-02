@@ -39,4 +39,4 @@ arduino 를 배우고 싶거든 [여기를 클릭](http://www.arduino.cc)
 
 글고 [링크2]...
 
-![arduino image] (https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_4.jpg)
+![arduino image](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_4.jpg)
