@@ -28,3 +28,6 @@ void loop(){
 }
 
 ```
+
+arduino 를 배우고 싶거든 [여기를 클릭](http://www.arduino.cc)
+
