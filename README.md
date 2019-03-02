@@ -41,3 +41,8 @@ arduino 를 배우고 싶거든 [여기를 클릭](http://www.arduino.cc)
 
 ![arduino image](https://github.com/cchamchi/led_test/blob/master/img/a000066_featured_4.jpg)
 
+
+<img src="https://github.com/cchamchi/led_test/blob/master/img/a000066_featured_4.jpg" width="30%">
+
+
+
